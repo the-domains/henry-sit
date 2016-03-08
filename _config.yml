@@ -1,0 +1,14 @@
+layout_spectrum: 0.04882916
+color:
+  saturation: 0.05137814
+  lightness: 0.7969594
+  brandStrength: 0.5824463
+  brandColors:
+    - '#FFFFFF'
+    - '#020201'
+    - '#0291FF'
+    - '#BECCCE'
+    - '#FC75D0'
+  rhythmicContrast: 0.1430442
+typography_spectrum: 0.5235718
+name: Henry Sit
